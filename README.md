@@ -37,11 +37,11 @@
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-git clone https://github.com/krohalevaa/cat_api.git
+git clone https://github.com/krohalevaa/BobrAi_Test_Bot.git
 ```
 
 ```
-cd cat_api
+cd BobrAi_Test_Bot
 ```
 
 Cоздать и активировать виртуальное окружение:
